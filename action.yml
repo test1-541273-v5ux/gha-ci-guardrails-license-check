@@ -1,5 +1,5 @@
 name: CI Guardrails - License Check
-description: CI Guardrails - License Check handles license compatibility with push + pr and delivers license mismatch alerts as check annotations.
+description: Checks license headers in CI workflows.
 author: YourCompany
 branding:
   icon: play
