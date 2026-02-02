@@ -1,0 +1,16 @@
+{
+  "name": "ci-guardrails-license-check",
+  "version": "0.1.2",
+  "private": true,
+  "description": "CI Guardrails - License Check handles license compatibility with push + pr and delivers license mismatch alerts as check annotations.",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "node --test",
+    "package": "bash ./scripts/package.sh"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@types/node": "^22.10.2"
+  }
+}

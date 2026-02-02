@@ -1,0 +1,2 @@
+CI Guardrails - License Check handles license compatibility with push + pr and delivers license mismatch alerts as check annotations. Ready…
+Designed for teams that publish at scale. Focus: Pr Tool.

@@ -1,0 +1,104 @@
+{
+  "primaryKeywords": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails"
+  ],
+  "secondaryKeywords": [
+    "pipeline",
+    "delivers-tool",
+    "repository",
+    "ci-tool",
+    "pr-tool",
+    "check-tool",
+    "push-tool",
+    "check",
+    "push",
+    "handles"
+  ],
+  "tags": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails",
+    "pipeline",
+    "delivers-tool",
+    "repository",
+    "ci-tool",
+    "pr-tool",
+    "check-tool",
+    "push-tool",
+    "check",
+    "push",
+    "handles",
+    "compatibility",
+    "delivers",
+    "mismatch",
+    "annotations"
+  ],
+  "synonyms": {
+    "check": [
+      "check-ops",
+      "check-workflow",
+      "check-tool"
+    ],
+    "guardrails": [
+      "guardrails-ops",
+      "guardrails-workflow",
+      "guardrails-tool"
+    ],
+    "push": [
+      "push-ops",
+      "push-workflow",
+      "push-tool"
+    ],
+    "handles": [
+      "handles-ops",
+      "handles-workflow",
+      "handles-tool"
+    ],
+    "compatibility": [
+      "compatibility-ops",
+      "compatibility-workflow",
+      "compatibility-tool"
+    ],
+    "delivers": [
+      "delivers-ops",
+      "delivers-workflow",
+      "delivers-tool"
+    ],
+    "mismatch": [
+      "mismatch-ops",
+      "mismatch-workflow",
+      "mismatch-tool"
+    ],
+    "annotations": [
+      "annotations-ops",
+      "annotations-workflow",
+      "annotations-tool"
+    ],
+    "automation": [
+      "orchestration",
+      "autopilot",
+      "streamlining"
+    ],
+    "workflow": [
+      "pipeline",
+      "runbook",
+      "process"
+    ]
+  }
+}

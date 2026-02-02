@@ -1,0 +1,14 @@
+name: CI Guardrails - License Check
+description: CI Guardrails - License Check handles license compatibility with push + pr and delivers license mismatch alerts as check annotations.
+author: YourCompany
+branding:
+  icon: play
+  color: blue
+inputs:
+  message:
+    description: Optional message to print
+    required: false
+    default: Hello from CI Guardrails - License Check
+runs:
+  using: node20
+  main: dist/index.js

@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-02-02T20:39:41.006Z",
+  "product": {
+    "slug": "ci-guardrails-license-check",
+    "name": "CI Guardrails - License Check",
+    "description": "CI Guardrails - License Check handles license compatibility with push + pr and delivers license mismatch alerts as check annotations.",
+    "version": "0.1.2",
+    "license": "MIT"
+  },
+  "target": {
+    "platform": "github_action",
+    "productType": "automation"
+  },
+  "modules": [
+    "storage",
+    "analytics_events"
+  ],
+  "marketplace": {
+    "pricingModel": "free",
+    "price": 0,
+    "keywords": [
+      "github",
+      "actions",
+      "ci",
+      "policy",
+      "lint",
+      "checks",
+      "automation",
+      "devops",
+      "qa",
+      "guardrails",
+      "license",
+      "check",
+      "compatibility",
+      "push",
+      "pr",
+      "mismatch",
+      "alerts",
+      "annotations",
+      "pull",
+      "for"
+    ]
+  },
+  "branding": {
+    "author": "YourCompany",
+    "website": "https://example.com",
+    "supportEmail": "support@example.com"
+  },
+  "adapter": {
+    "id": "github_action",
+    "displayName": "GitHub Marketplace (Action)",
+    "kind": "action"
+  }
+}
